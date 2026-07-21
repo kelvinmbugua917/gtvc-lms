@@ -1,13 +1,13 @@
 # GTVC LMS
 
-A secure, modern, and responsive Learning Management System (LMS) for **Gilgil Technical and Vocational College (Gilgil TVC)**, built with the LAMP stack.
+A modern, secure, and responsive Learning Management System (LMS) for **Gilgil Technical and Vocational College (Gilgil TVC)**.
 
-The platform provides a centralized system for managing students, lecturers, departments, programs, courses and units, learning materials, assessments, assignments, grading, attendance, student progress, academic records, and administrative operations.
+The platform is designed to provide a centralized digital learning environment for students, lecturers, administrators, and other college staff, supporting academic management, online learning, assessments, student progress tracking, and institutional operations.
 
-## Key Features
+## Features
 
-- Student and lecturer dashboards
 - Role-based access control (RBAC)
+- Student and lecturer dashboards
 - Student admissions and enrollment management
 - Department and program management
 - Course and unit management
@@ -18,19 +18,30 @@ The platform provides a centralized system for managing students, lecturers, dep
 - Attendance management
 - Practical and workshop session tracking
 - Announcements and notifications
-- Financial and fee clearance management
 - Academic reports and analytics
+- Financial and fee clearance management
 - Secure authentication and authorization
 - Audit logging and security controls
-- Responsive design for desktop, tablet, and mobile
+- Responsive design for desktop, tablet, and mobile devices
 
-## Technology Stack
+## User Roles
 
-- PHP
-- MySQL / MariaDB
-- Apache
-- HTML5
-- CSS3
-- JavaScript
+- Super Administrator
+- ICT/System Administrator
+- Registrar
+- Head of Department (HOD)
+- Lecturer / Instructor
+- Student
+- Accountant / Finance Officer
 
-The system is designed with a modular architecture, strong security practices, maintainability, and affordable deployment on standard LAMP-compatible hosting environments in mind.
+## Technology
+
+- TypeScript
+- TSX
+- React
+- Node.js
+- Express
+- Database layer
+- Modern responsive UI
+
+The system follows a modular architecture with a strong focus on security, maintainability, scalability, and an intuitive user experience.
